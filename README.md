@@ -40,7 +40,4 @@ Users can ask questions like:
 | LLM | Llama 3 (Ollama) |
 | Pipeline | Python, RAG architecture |
 
----
-
-## 📂 Project Structure
 
